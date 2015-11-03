@@ -1,0 +1,112 @@
+/***************/
+/* YOUR STYLES */
+/***************/
+
+/* Color Palette */
+.color-1 {
+    background: #DFF2D8;
+}
+
+.color-2 {
+    background: #C6DEA6;
+}
+
+.color-3 {
+    background: #94AE89;
+}
+
+.color-4 {
+    background: #7EBDC3;
+}
+
+.color-5 {
+    background: #7A6263;
+}
+
+/* Textures or Patterns*/
+.pattern-1 {
+    background: url(../img/small_steps.png);
+}
+
+.pattern-2 {
+    background: url(../img/symphony.png);
+}
+
+.pattern-3 {
+    background: url(../img/upfeathers.png);
+}
+
+.pattern-4 {
+    background: url(../img/dark_embroidery.png);
+}
+
+.pattern-5 {
+    background: url(../img/green_cup.png);
+}
+
+/* Imagery (img src) */
+
+
+/* Icons (img src) */
+
+
+/* Typography */
+section.atype h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+section.atype h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+section.atype h3 {
+    font-family: 'Open Sans', sans-serif;   
+    font-weight: 600
+}
+
+section.atype p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+section.btype h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+
+section.btype h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+section.btype h3 {
+    font-family: 'Raleway', sans-serif;    
+    font-weight: 600
+}
+
+section.btype p {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+} 
+
+
+/* Forms */
+.button-a {
+    background: #94AE89;
+    color: white;
+    border: 2px solid;
+}
+
+/* Tables */
+
+
+/* Cards */
+
+
+/* Links */
+a {
+    text-decoration: none;
+    color: #7EBDC3; 
+}
